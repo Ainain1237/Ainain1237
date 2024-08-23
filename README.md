@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with projects related to real time connections<br>🌱 I’m currently learning Typescript<br>💬 Ask me about Problem-Solving<br>⚡ Fun fact i wanna go to space!
 
+<br clear="both">
+
+![snake](https://github.com/user-attachments/assets/2f30efc8-58ec-4b6a-82dd-8c55e456c0bb)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ainain/) 
