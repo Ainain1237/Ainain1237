@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack and Machine Learning<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with projects related to real time connections<br>🌱 I’m currently learning Typescript<br>💬 Ask me about Problem-Solving<br>⚡ Fun fact i wanna go to space!
+🔭 Software Engineer | AI/ML Enthusiast<br>👯Building and exploring scalable data systems and search technologies<br>🤝 Working with Java, Elasticsearch, Backend Systems, and Data Pipelines<br>🌱  Interested in Machine Learning, Autonomous Systems, and Space Technology<br>💬 Ask me about Java, Problem-Solving, and Software Engineering<br>🚀 Fun fact: I aspire to work in the space industry someday!
 
 <br clear="both">
 
